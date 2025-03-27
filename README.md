@@ -10,4 +10,5 @@
 Features to be added <br>
 * arpeggiator with multiple octave settings <br>
 * crossfader between second channel sequencer <br>
-
+* sequence reverse mode
+* sequence reset button
