@@ -1,6 +1,7 @@
 # moscow
 ## 8 / 16 step sequencer built for m4l
 <img src="moscow.png">
+<img src="dual.jpg">
 
 8 / 16 step sequencer which currently features <br>
 * tempo-sync'd as well as free running bpm <br>
